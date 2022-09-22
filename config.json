@@ -1,0 +1,17 @@
+{
+    "name": "Cobra",
+    "envVariables": [
+        {
+            "key": "food",
+            "value": "https://62dfe8c098dd9c9df609cecf.mockapi.io/fooditem",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "b96035b4-5192-5873-b0a7-f9432e4653a1"
+            ]
+        }
+    ]
+}
